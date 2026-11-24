@@ -5,7 +5,7 @@ export function EventHero() {
     <section className="hero" id="top" aria-labelledby="event-title">
       <div className="hero-copy">
         <p className="eyebrow"><span className="eyebrow-dot" /> Technology meetup · Mumbai, India</p>
-        <h1 id="event-title">Tech &amp; Innovation <span>Meetup 2026</span></h1>
+        <h1 id="event-title">Manual QA Tester | Software Quality Assurance</h1>
         <p className="hero-description">
           Join us for an exciting technology meetup focused on Software Testing, Automation,
           Artificial Intelligence, and modern development trends. Connect with industry

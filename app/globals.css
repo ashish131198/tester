@@ -206,7 +206,7 @@ body {
   height: 42px;
   place-items: center;
   border-radius: 13px;
-  background: #2563eb;
+  background: #000080;
   color: white;
   font-size: 15px;
   font-weight: 800;
@@ -246,7 +246,7 @@ body {
 
 .main-nav a:hover,
 .text-link:hover {
-  color: #2563eb;
+  color: #000080;
 }
 
 .main-nav .nav-cta {
@@ -257,7 +257,7 @@ body {
   border: 1px solid #dbe4f3;
   border-radius: 9px;
   background: #fff;
-  color: #1e3a70;
+  color: #20205c;
 }
 
 .nav-cta svg,
@@ -283,7 +283,7 @@ body {
   align-items: center;
   gap: 9px;
   margin: 0 0 21px;
-  color: #2563eb;
+  color: #000080;
   font-size: 11px;
   font-weight: 750;
   letter-spacing: 0.13em;
@@ -296,13 +296,13 @@ body {
   height: 7px;
   flex: 0 0 auto;
   border-radius: 50%;
-  background: #2563eb;
+  background: #000080;
 }
 
 .hero h1 {
   max-width: 690px;
   margin: 0;
-  font-size: clamp(48px, 6vw, 76px);
+  font-size: clamp(45px, 5.6vw, 68px);
   font-weight: 750;
   letter-spacing: -0.072em;
   line-height: 0.99;
@@ -310,7 +310,7 @@ body {
 
 .hero h1 span {
   display: block;
-  color: #2563eb;
+  color: #000080;
 }
 
 .hero-description {
@@ -344,14 +344,14 @@ body {
 }
 
 .button-primary {
-  background: #2563eb;
+  background: #000080;
   color: #fff;
   box-shadow: 0 7px 16px rgb(37 99 235 / 17%);
 }
 
 .button-primary:hover {
   transform: translateY(-1px);
-  background: #1e55d3;
+  background: #00006b;
 }
 
 .text-link {
@@ -380,7 +380,7 @@ body {
 .hero-meta svg {
   width: 15px;
   height: 15px;
-  color: #2563eb;
+  color: #000080;
 }
 
 .date-card {
@@ -392,7 +392,7 @@ body {
   overflow: hidden;
   padding: 29px 30px 27px;
   border-radius: 21px;
-  background: linear-gradient(145deg, #2563eb 0%, #1f55d1 100%);
+  background: linear-gradient(145deg, #000080 0%, #00006b 100%);
   box-shadow: 0 20px 48px rgb(37 99 235 / 18%);
   color: #fff;
   isolation: isolate;
@@ -549,10 +549,10 @@ body {
 
 .topic-list li {
   padding: 9px 12px;
-  border: 1px solid #dce6f7;
+  border: 1px solid #dedef0;
   border-radius: 999px;
   background: #fff;
-  color: #31517f;
+  color: #303060;
   font-size: 11px;
   font-weight: 650;
 }
@@ -578,8 +578,8 @@ body {
   height: 38px;
   place-items: center;
   border-radius: 11px;
-  background: #edf3ff;
-  color: #2563eb;
+  background: #f0f0fa;
+  color: #000080;
 }
 
 .info-icon svg {
@@ -589,7 +589,7 @@ body {
 
 .card-label {
   margin: 19px 0 8px;
-  color: #2563eb;
+  color: #000080;
   font-size: 10px;
   font-weight: 750;
   letter-spacing: 0.14em;
@@ -633,7 +633,7 @@ body {
   width: 6px;
   height: 6px;
   border-radius: 50%;
-  background: #2563eb;
+  background: #000080;
   content: '';
 }
 
@@ -643,9 +643,9 @@ body {
   justify-content: space-between;
   gap: 28px;
   padding: 30px 34px;
-  border: 1px solid #dce7fb;
+  border: 1px solid #dedef0;
   border-radius: 16px;
-  background: #edf3ff;
+  background: #f0f0fa;
 }
 
 .registration-panel .eyebrow {
@@ -667,10 +667,10 @@ body {
 .registration-status {
   flex: 0 0 auto;
   padding: 10px 13px;
-  border: 1px solid #cbdaf7;
+  border: 1px solid #d4d4ed;
   border-radius: 8px;
   background: #fff;
-  color: #31517f;
+  color: #303060;
   font-size: 11px;
   font-weight: 700;
 }
@@ -685,7 +685,7 @@ body {
 }
 
 .event-page a:focus-visible {
-  outline: 3px solid #8db2ff;
+  outline: 3px solid #7777cc;
   outline-offset: 4px;
 }
 
